@@ -1,4 +1,10 @@
 ![picture alt](./img/banner.png)
+
+
+## Expertised technologies:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongo,nodejs,git,figma)](https://skillicons.dev)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faysalhosen&theme=shadow-purple&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 ## Three Recent Projects
