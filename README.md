@@ -1,7 +1,7 @@
 ![picture alt](./img/banner.png)
 
 ## About me:
-👋 Hi, I'm Faysal Hosen, a frontend developer based in Dhaka,Bangladesh. I'm dedicated to creating seamless user experiences using JavaScript and React. I'm passionate about problem-solving, and I find joy in staying at the forefront of tech trends.
+👋 Hi, I'm Faysal Hosen, a frontend developer. I'm dedicated to creating seamless user experiences using JavaScript and React. I'm passionate about problem-solving, and I find joy in staying at the forefront of tech trends.
 
 💻 With a keen eye for design and a love for clean, efficient code, I bring ideas to life on the web. I'm an avid learner, always exploring new technologies and methodologies to enhance my skills.
 
