@@ -5,7 +5,7 @@
 
 💻 With a keen eye for design and a love for clean, efficient code, I bring ideas to life on the web. I'm an avid learner, always exploring new technologies and methodologies to enhance my skills.
 
-## Expertised technologies:
+## Frequently used technologies:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongo,nodejs,git,figma)](https://skillicons.dev)
 
 ## Connect with me!
