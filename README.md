@@ -1,9 +1,5 @@
 
 
-https://github.com/faysalhosen/faysalhosen/assets/123822939/56f68ec9-7f8f-45f7-93fc-23b3ea25dd29
-
-
-
 ## About me:
 👋 Hi, I'm Faysal Hosen, a frontend developer. I'm dedicated to creating seamless user experiences using JavaScript and React. I'm passionate about problem-solving, and I find joy in staying at the forefront of tech trends.
 
@@ -17,6 +13,7 @@ https://github.com/faysalhosen/faysalhosen/assets/123822939/56f68ec9-7f8f-45f7-9
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysal-hosen/)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faysalhosen7025@gmail.com)
 
 
+<h1>Streak-Stats</h1>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faysalhosen&theme=shadow-purple&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 ## Three Recent Projects
