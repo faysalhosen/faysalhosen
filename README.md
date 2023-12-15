@@ -1,4 +1,8 @@
-![picture alt](./img/banner.png)
+
+
+https://github.com/faysalhosen/faysalhosen/assets/123822939/56f68ec9-7f8f-45f7-93fc-23b3ea25dd29
+
+
 
 ## About me:
 👋 Hi, I'm Faysal Hosen, a frontend developer. I'm dedicated to creating seamless user experiences using JavaScript and React. I'm passionate about problem-solving, and I find joy in staying at the forefront of tech trends.
