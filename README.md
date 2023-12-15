@@ -23,11 +23,11 @@
     * [Server Repository](https://github.com/faysalhosen/news-wave-server)
 - Home-page-exchange
     * Technologies Used: React JS, Express JS, Firebase, MongoDB, Node JS, Tailwind CSS, Daisy UI
-    * [Live Link](https://home-page-exchange.web.app/)
+    * [Live Link](https://home-page-exchange-c76d3.web.app/)
     * [Client Repository](https://github.com/faysalhosen/Home-page-exchange-client) 
     * [Server Repository](https://github.com/faysalhosen/Home-page-exchange-server)
 - Brand-Shop
     * Technologies Used: React JS, Firebase, Node JS, Tailwind CSS, Daisy UI
-    * [Live Link](https://brand-shop-15abe.web.app/)
+    * [Live Link](https://brand-shop-6bcb5.web.app/https://brand-shop-6bcb5.web.app/)
     * [Repository](https://github.com/faysalhosen/brand-shop-client) 
 
